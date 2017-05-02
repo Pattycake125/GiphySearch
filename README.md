@@ -1,4 +1,4 @@
-## Giphy search page for Coding Boot Camp @ Rutgers!
+## Giphy Search page for Coding Boot Camp @ Rutgers!
 
 -This is week 6 homework and hopefully approaching "Portfolio Quality". 
 
