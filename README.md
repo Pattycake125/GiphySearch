@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Giphy search page for Coding Boot Camp @ Rutgers!
 
-You can use the [editor on GitHub](https://github.com/Pattycake125/GiphySearch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-This is week 6 homework and hopefully approaching "Portfolio Quality". 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-This program will create a button for each search term you enter and return the textbox to placeholder status.
 
-### Markdown
+-When you click on the Navbar buttons they populate the page with stills of gifs found on giphy.com. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-The gifs will only be G rated. 
 
-```markdown
-Syntax highlighted code block
+-Monkey is a default button
 
-# Header 1
-## Header 2
-### Header 3
+-Clicking on the still image will replace it with the animated image* 
 
-- Bulleted
-- List
+* there is an issue when using the second button going from _still_ to _animation_. It defaults to the first buttons textobject, even though console.log shows the test is the correct setting. I checked browser storage and there is no residual stored data from the first button. I will get help with this tomorrow in tutoring with Mark.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Each week this gets slightly easier... by the time I retire I might be average! :)
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pattycake125/GiphySearch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
