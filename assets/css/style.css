@@ -1,0 +1,40 @@
+
+html, body {
+	height           : 100%;
+	width            : 100%;
+	margin           : 0;
+	padding          : 0;
+
+	background: url("../../images/471963.jpg");
+}
+
+.white {
+	background-color : #fff;
+}
+h1{
+	color:#87CEEB;
+}
+#blue {
+	background-color : #87CEEB;
+}
+
+.red {
+	background-color : #C1392B;
+}
+
+.yellow {
+	background-color : #F1C40F;
+	
+}
+.image{
+min-height:200px;
+height:200px;
+min-width:200px;
+width:200px;
+}
+.img{
+min-height:200px;
+height:200px;
+min-width:200px;
+width:200px;
+}
